@@ -4,7 +4,7 @@ My code for this assignment can be found in the WeatherPY folder.
 Here is the heatmap screenshot that the instructions requested. It is a zoomed in section showing the high humidity cities in the United States.
 ![pamsHeatmap](Images/pamsHeatmap.png)
 
-
+----------------------------------
 # Python API Homework - What's the Weather Like?
 
 ## Background
